@@ -10,7 +10,7 @@ a Data Science project
 3. To run the code of the file you need to change the path name of files while reading, saving etc.
    All of the CSV files do the dataset should be in one folder.
 
-4. Here are two more optinal files, if you want you can load make prediction for empathy.
+4. Here are two more optinal/additional files, if you want you can load make prediction for empathy.
    They are already train models;
    First one for control group of the dataset named cn_dtr_model.joblib,
    second one for test group of the dataset named tst_dtr_model.joblib.
